@@ -1,0 +1,24 @@
+django_admin/__pycache__/
+django_admin/*.py[cod]
+django_admin/*$py.class
+
+# Local development settings
+para_kzn_bot/*.env
+django_admin/*.sqlite3
+
+# Media files
+django_admin/media/
+
+# Static files
+django_admin/staticfiles/
+
+# Log files
+django_admin/logs/
+
+# IDE files
+django_admin/.vscode/
+django_admin/.idea/
+
+# Dependency directories
+django_admin/venv/
+django_admin/env/

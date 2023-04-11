@@ -1,0 +1,7 @@
+aiogram==2.24
+python-dotenv==0.21.1
+prettytable==3.5.0
+
+Django==3.2.16
+djangorestframework==3.14.0
+django-phonenumber-field
