@@ -102,4 +102,9 @@ ADMIN_LOGIN = ypor login for Django admin
 ADMIN_PASSWORD = ypor password for Django admin
 ````
 
+### Run telegram bot
+
+```commandline
+make run_bot
+```
 
