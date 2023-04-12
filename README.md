@@ -98,8 +98,8 @@ fill out .env and setup.py
 ````
 TOKEN = your telegram token
 API_KEY = your key for https://openweathermap.org/api
-ADMIN_LOGIN = ypor login for Django admin
-ADMIN_PASSWORD = ypor password for Django admin
+ADMIN_LOGIN = your Django admin login
+ADMIN_PASSWORD = your Django admin password
 ````
 
 ### Run telegram bot
