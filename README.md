@@ -100,6 +100,10 @@ TOKEN = your telegram token
 API_KEY = your key for https://openweathermap.org/api
 ADMIN_LOGIN = your Django admin login
 ADMIN_PASSWORD = your Django admin password
+DB_HOST = postgreSQL host
+DB_NAME = postgreSQL db name
+DB_USER = postgreSQL user
+DB_PASS = postgreSQL password
 ````
 
 ### Run telegram bot

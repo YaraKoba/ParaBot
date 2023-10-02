@@ -16,7 +16,7 @@ runserver:
 	$(DJANGO_MANAGE) runserver --settings=$(DJANGO_SETTINGS_MODULE)
 
 env_bot:
-		echo "TOKEN=\nAPI_KEY=\nADMIN_LOGIN=\nADMIN_PASSWORD=" > para_kzn_bot/.env
+		echo "TOKEN=\nAPI_KEY=\nADMIN_LOGIN=\nADMIN_PASSWORD=\nDB_HOST=\nDB_NAME\nDB_USER=\n=DB_PASS=" > para_kzn_bot/.env
 		vim para_kzn_bot/.env
 		vim para_kzn_bot/bot/suport_fl/set_up.py
 
